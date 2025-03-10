@@ -1,0 +1,49 @@
+/* Styling the box container */
+.box {
+    color: black;
+    margin-left: 530px;
+    margin-top: 100px;
+    border: ridge;
+    height: auto;
+    width: 450px;
+    border-color: black;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+/* Styling the title */
+.set {
+    text-align: center;
+}
+
+/* Styling the button */
+button {
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Styling the input fields */
+input[type="text"],
+input[type="number"] {
+    padding: 5px;
+    width: 100%;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Styling the ordered list */
+ol {
+    padding-left: 20px;
+}
+
+/* Styling each list item */
+li {
+    font-size: 18px;
+    margin: 5px 0;
+}
